@@ -1,6 +1,6 @@
-import Dog from "./Dog.js";
-import ShelterDog from "./ShelterDog.js";
-import { add, divide, multiply } from "./utils.js";
+import Dog from "./Dog";
+import ShelterDog from "./ShelterDog";
+import { add, divide, multiply } from "./utils";
 
 console.log("인덱스 파일로부터...", Dog);
 
